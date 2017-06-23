@@ -1,0 +1,103 @@
+---
+
+title: Reference standard for characterization of rosuvastatin
+abstract: Provided are rosuvastatin degradation products and their use as a reference standard (including reference marker) for analysis of rosuvastatin.
+url: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&f=G&l=50&d=PALL&S1=07741482&OS=07741482&RS=07741482
+owner: Teva Pharmaceutical Industries Ltd.
+number: 07741482
+owner_city: Petah Tiqva
+owner_country: IL
+publication_date: 20070625
+---
+This application is a divisional of U.S. application Ser. No. 11 001 912 filed Dec. 2 2004 now U.S. Pat. No. 7 244 844 which claims the benefit of U.S. Provisional Application No. 60 526 449 filed on Dec. 2 2003 the disclosure of which is incorporated by reference in its entirety herein.
+
+The present invention relates to rosuvastatin degradation products and their use as a reference standard for analysis of rosuvastatin.
+
+Statins are currently the most therapeutically effective drugs available for reducing low density lipoprotein LDL particle concentration in the blood stream of patients at risk for cardiovascular disease. Thus statins are used in the treatment of hypercholesterolemia hyperlipoproteinemia and atherosclerosis. A high level of LDL in the bloodstream has been linked to the formation of coronary lesions that obstruct the flow of blood and can rupture and promote thrombosis. Goodman and Gilman The Pharmacological Basis of Therapeutics page 879 9th Ed. 1996 .
+
+Statins inhibit cholesterol biosynthesis in humans by competitively inhibiting the 3 hydroxy 3 methyl glutaryl coenzyme A HMG CoA reductase enzyme. HMG CoA reductase catalyzes the conversion of HMG to mevalonate which is the rate determining step in the biosynthesis of cholesterol. Decreased production of cholesterol causes an increase in the number of LDL receptors and corresponding reduction in the concentration of LDL particles in the bloodstream. Reduction in the LDL level in the bloodstream reduces the risk of coronary artery disease. J.A.M.A. 1984 251 351 74.
+
+Currently available statins include lovastatin simvastatin pravastatin fluvastatin cerivastatin and atorvastatin. Lovastatin disclosed in U.S. Pat. No. 4 231 938 and simvastatin disclosed in U.S. Pat. No. 4 444 784 are administered in the lactone form. After absorption the lactone ring is opened in the liver by chemical or enzymatic hydrolysis and the active hydroxy acid is generated. Pravastatin disclosed in U.S. Pat. No. 4 346 227 is administered as the sodium salt. Fluvastatin disclosed in U.S. Pat. No. 4 739 073 and cerivastatin disclosed in U.S. Pat. Nos. 5 006 530 and 5 177 080 also administered as the sodium salt are entirely synthetic compounds that are in part structurally distinct from the fungal derivatives of this class that contain a hexahydronaphthalene ring. Atorvastatin and two new superstatins rosuvastatin and pitavastatin are administered as calcium salts.
+
+Rosuvastatin calcium monocalcium bis 7 4 4 fluorophenyl 6 isopropyl 2 N methyl N methylsulfonylaminopyrimidin 5 yl 3R 5S dihydroxy E 6 heptenoate is an HMG CoA reductase inhibitor developed by Shionogi for the once daily oral treatment of hyperlipidaemia Ann Rep Shionogi 1996 Direct communications Shionogi 8 Feb. 1999 25 Feb. 2000 . Rosuvastatin calcium is a superstatin which can lower LDL cholesterol and triglycerides more effectively than first generation drugs. Rosuvastatin calcium has the following chemical formula 
+
+Rosuvastatin calcium is marketed under the name CRESTOR for treatment of a mammal such as a human. According to the maker of CRESTOR it is administered in a daily dose of from about 5 mg to about 40 mg. For patients requiring less aggressive LDL C reductions or who have pre disposing factors for myopathy the 5 mg dose is recommended while 10 mg dose is recommended for the average patient 20 mg dose for patients with marked hyper cholesterolemia and aggressive lipid targets 190 mg dL and the 40 mg dose for patients who have not been responsive to lower doses.
+
+U.S. Pat. No. 5 260 440 discloses and claims rosuvastatin its calcium salt 2 1 and its lactone form. The process of the 440 patent prepares rosuvastatin by reacting 4 4 fluorophenyl 6 isopropyl 2 N methyl N methylsulfonylamino 5 pyrimidinecarbaldehyde with methyl 3R 3 tert butyldimethylsilyloxy 5 oxo 6 triphenylphosphoranylidene hexanate in acetonitrile under reflux. The silyl group is then cleaved with hydrogen fluoride followed by reduction with NaBHand diethylmethoxyborane in THF to obtain a methyl ester of rosuvastatin.
+
+The ester is then hydrolyzed with sodium hydroxide in ethanol at room temperature followed by removal of ethanol and addition of ether to obtain the sodium salt of rosuvastatin. The sodium salt is then converted to the calcium salt. The sodium salt is dissolved in water and maintained under a nitrogen atmosphere. Calcium chloride is then added to the solution resulting in precipitation of rosuvastatin calcium 2 1 . The process for preparation of the intermediates disclosed in the 440 patent is incorporated herein by reference.
+
+U.S. Pat. No. 6 316 460 discloses a pharmaceutical composition of rosuvastatin. The pharmaceutical compositions contain rosuvastatin or its salt and a multivalent tribasic phosphate salt.
+
+The product mixture of a reaction rarely is a single compound pure enough to comply with pharmaceutical standards. Side products and byproducts of the reaction and adjunct reagents used in the reaction will in most cases be present. At certain stages during processing of the rosuvastatin contained in the product mixture into an active pharmaceutical ingredient API the rosuvastatin must be analyzed for purity typically by HPLC or GC analysis to determine if it is suitable for continued processing or ultimately for use in a pharmaceutical product. The rosuvastatin does not need to be absolutely pure. Absolute purity is a theoretical ideal that is unattainable. Rather there are purity standards intended to ensure that an API is not made less safe for clinical use because of the presence of impurities. In the United States the Food and Drug Administration guidelines recommend that applicants limit some impurities to below 0.1 .
+
+Generally side products byproducts and adjunct reagents collectively impurities are identified spectroscopically and by other physical methods and then the impurities are associated with a peak position in a chromatogram or a spot on a TLC plate . Strobel p. 953 Strobel H. A. Heineman W. R. 3. Wiley Sons New York 1989 . Thereafter the impurity can be identified by its position in the chromatogram which is conventionally measured in minutes between injection of the sample on the column and elution of the particular component through the detector known as the retention time. This time period varies daily based upon the condition of the instrumentation and many other factors. To mitigate the effect that such variations have upon accurate identification of an impurity practitioners use relative retention time RRT to identify impurities. Strobel p. 922 . The RRT of an impurity is its retention time divided by the retention time of some reference marker. In theory rosuvastatin itself could be used as the reference marker but as a practical matter it is present in such overwhelming proportion in the mixture that it tends to saturate the column leading to irreproducible retention times i.e. the maximum of the peak corresponding to rosuvastatin tends to wander Strobel FIG. 24.8 b p. 879 contains an illustration of the sort of asymmetric peak that is observed when a column is overloaded . Thus it is sometimes desirable to select an alternative compound that is added to or is present in the mixture in an amount significant enough to be detectable and sufficiently low as not to saturate the column and to use that compound as the reference marker.
+
+Researchers and developers in drug manufacturing understand that a compound in a relatively pure state can be used as a reference standard a reference marker is similar to a reference standard but it is used for qualitative analysis to quantify the amount of the compound in an unknown mixture. When the compound is used as an external standard a solution of a known concentration of the compound is analyzed by the same technique as the unknown mixture. Strobel p. 924 Snyder p. 549 Snyder L. R. Kirkland J. J. 2. John Wiley Sons New York 1979 . The amount of the compound in the mixture can be determined by comparing the magnitude of the detector response. See also U.S. Pat. No. 6 333 198 incorporated herein by reference.
+
+The reference standard compound also can be used to quantify the amount of another compound in the mixture if the response factor which compensates for differences in the sensitivity of the detector to the two compounds has been predetermined. Strobel p. 894 . For this purpose the reference standard compound may be added directly to the mixture in which case it is called an internal standard. Strobel p. 925 Snyder p. 552 .
+
+The reference standard compound can even be used as an internal standard when the unknown mixture contains some of the reference standard compound by using a technique called standard addition wherein at least two samples are prepared by adding known and differing amounts of the internal standard. Strobel pp. 391 393 Snyder pp. 571 572 . The proportion of detector response due to the reference standard compound that is originally in the mixture can be determined by extrapolation of a plot of detector response versus the amount of the reference standard compound that was added to each of the samples to zero. e.g. Strobel FIG. 11.4 p. 392 .
+
+The present invention provides a rosuvastatin degradation product that can be used as a reference standard for analysis of rosuvastatin.
+
+In one aspect the present invention provides a rosuvastatin degradation product having the following structure 
+
+In another aspect the present invention provides a rosuvastatin degradation product having the following structure 
+
+In another aspect the present invention provides a rosuvastatin degradation product having the following structure 
+
+In another aspect the present invention provides a rosuvastatin degradation product having the following structure 
+
+In another aspect the present invention provides a lactone form of a rosuvastatin degradation product having the following structure 
+
+In another aspect the present invention provides a lactone form of a rosuvastatin degradation product having the following structure 
+
+In another aspect the present invention provides a process for converting the lactone to a calcium salt comprising hydrolyzing the lactone under aqueous basic conditions and reacting the hydrolyzed lactone with a source of calcium.
+
+In another aspect the present invention provides a process for converting the lactone to free acid form comprising hydrolyzing the lactone under aqueous basic conditions to obtain a metal salt and contacting the metal salt with a silica column.
+
+Preferably the degradation product is about 95 free area by HPLC of its corresponding stereoisomer at position 6. The rosuvastatin degradation product may be isolated or purified.
+
+In another aspect the present invention provides a method for analyzing a sample of rosuvastatin comprising the steps of 
+
+In another aspect the present invention provides a process for preparing the degradation product comprising the step of irradiating with visible light rosuvastatin acid rosuvastatin alkali or alkaline earth metal salt or rosuvastatin lactone.
+
+In another aspect the present invention provides a method for determining the retention time of a chromatography column for rosuvastatin comprising the steps of carrying out chromatography with the following compound as a standard 
+
+As used herein the term reference standard refers to a compound that may be used both for quantitative and qualitative analysis of an active pharmaceutical ingredient. For example the retention time of the compound in HPLC allows for setting a relative retention time thus making qualitative analysis possible. The concentration of the compound in solution before injection into an HPLC column allows for comparison of the areas under the peaks in an HPLC chromatogram thus making quantitative analysis possible.
+
+A reference marker is used in qualitative analysis to identify components of a mixture based upon their position e.g. in a chromatogram or on a Thin Layer Chromatography TLC plate Strobel pp. 921 922 953 . For this purpose the compound does not necessarily have to be added to the mixture if it is present in the mixture. A reference marker is used only for qualitative analysis while a reference standard may be used for quantitative or qualitative analysis or both. Hence a reference marker is a subset of a reference standard and is included within the definition of a reference standard.
+
+Although some of the knowledge of those in the art regarding reference standards has been described in general terms up to this point those skilled in the art also understand that the detector response can be for example the peak heights or integrated peak areas of a chromatogram obtained e.g. by UV or refractive index detection from the eluent of an HPLC system or e.g. flame ionization detection or thermal conductivity detection from the eluent of a gas chromatograph or other detector response e.g. the UV absorbence of spots on a fluorescent TLC plate. The position of the reference standard may be used to calculate the relative retention time for rosuvastatin and other impurities.
+
+When rosuvastatin calcium is exposed to visible light irradiation degradation products of rosuvastatin are obtained which can be used as a reference standard. The two degradation products are diastereomeric cyclic products II and III with the creation of an additional asymmetric center in position 6 as follows 
+
+The irradiation may be performed in solution or in solid state. When irradiating a solution the irradiation may be performed at preferably from about room temperature up to about reflux temperature. The organic solvent used for dissolution may be either polar protonic Cto Calcohol such as methanol or ethanol or a protonic acetonitrile tetrahydrofuran in a mixture with water. Visible light irradiation of about 750 w at about 35 C. of aqueous acetonitrile solution of rosuvastatin calcium for about 7 hours gives a mixture of compounds II and III in the ratio 1 1. When irradiating in the solid state the temperature is preferably from about 20 EC to about 100 EC. One of skill in the art may yet choose a narrow spectrum within these spectrums or a mixture of various spectrums. Based on the structural guidance provided herein of the various degradation products one of skill in the art may prepare a synthetic route to obtain the degradation products.
+
+In another embodiment the corresponding lactone is obtained either by irradiating the lactone form of rosuvastatin or by preparing the lactone from Compounds II and III to obtain the corresponding Compounds IV and V which can be used as a reference standard. Compound IV has the following. H NMR 300 MHz CDCl ppm 1.24 1.34 1.68 2.47 2.53 2.64 3.15 3.35 3.46 3.56 3.60 4.28 4.45 6.99 7.14 8.31 C NMR 75 MHz CDCl ppm 20.87 21.26 23.29 31.41 33.26 34.03 38.23 42.07 43.00 62.23 74.53 115.61 116.08 J 26 Hz 116.25 J 22 Hz 129.08 128.91 J 9 Hz 139.28 J 8 Hz 157.64 157.86 163.96 J 253 Hz 169.47 174.48 FAB m z MH 464. Compound V has the following H NMR 300 MHz CDCl ppm 1.24 1.29 1.52 1.70 2.58 3.02 3.21 3.27 3.41 3.55 3.60 4.26 4.78 7.05 7.12 8.34 FAB m z MH 464.
+
+The preparation of the corresponding lactone compounds IV and V from compound II and III includes dissolving compound II and III in a suitable solvent and forming a lactone ring for example with aqueous hydrochloric acid. Other acids may be used to form a lactone. A suitable solvent for preparation of the lactone from Compound II or III is dichloromethane chloroform acetonitrile or tetrahydrofuran. Preferably the suitable solvent is acetonitrile. To recover the product the solvent may be removed by any conventional process such as evaporation. Obtained compounds IV and V can be separated by methods such as column chromatography and crystallization.
+
+The preparation of the corresponding lactone compounds IV and V from rosuvastatin lactone may also be performed by visible light irradiation in the same solvents. The irradiation characteristics are as described above. The lactone compounds IV and V may be hydrolyzed with an equivalent amount of an aqueous base such as sodium or calcium hydroxide to obtain the corresponding salts in the presence of a solvent. Preferably the solvent is acetonitrile. In one embodiment the lactones are hydrolyzed with an aqueous solution of sodium hydroxide in acetonitrile followed by removal of acetonitrile and addition of a source of calcium such as calcium chloride.
+
+The lactone forms IV and V can be hydrolyzed with a base to obtain salts and thereafter converted to acid forms VI and VII respectively which can be used as a reference standard. The conversion of the lactones to salts may be carried out by using a basic aqueous solution. In one embodiment the lactone is dissolved in a mixture of acetonitrile and an aqueous NaOH solution. The acetonitrile is then removed and a source of calcium such as calcium chloride is added to precipitate the calcium salt.
+
+The acid forms are obtained after purifying the salt products by column chromatography on silica gel as described in example 1 . It is believed that the acidity of the silica column is responsible for the conversion. Compound VI has the following H NMR 600 MHz CDCl CDOD 5 1 ppm 1.25 1.33 1.39 1.58 2.22 2.80 2.89 3.36 3.52 3.58 3.61 3.95 7.01 7.09 8.26 C NMR 150 MHz CDCl CDOD 5 1 ppm 21.14 21.31 23.32 31.56 33.47 40.15 42.16 42.97 44.62 68.99 71.45 115.17 J 21 Hz 116.32 J 22 Hz 117.77 128.87 J 9 Hz 129.20 142.34 J 8 Hz 157.71 158.57 164.26 J 251 Hz 174.30 Cl m z MH 482. Compound VII has the following H NMR 600 MHz CDCl CDOD 5 1 ppm 1.24 1.31 1.43 2.25 2.95 3.05 3.19 3.30 3.56 3.60 3.85 4.03 7.02 7.08 7.31 C NMR 150 MHz CDCl CDOD 5 1 ppm 21.15 21.23 22.98 31.22 33.36 38.83 42.08 43.45 68.82 73.86 114.95 J 21 Hz 116.31 J 21 Hz 117.41 128.56 J 8 Hz 128.91 142.02 J 8 Hz 157.58 158.45 164.28 J 252 Hz 173.19 178 Cl m z MH 482.
+
+The various forms of the degradation product may be purified so that only one stereoisomer is present. The R stereoisomer at position 6 is preferably at least about 95 free of the S stereoisomer area by HPLC. Conversely the S stereoisomer at position 6 is preferably at least about 95 free of the R stereoisomer area by HPLC. Purification may be performed by column chromatography TLC HPLC or other known purification methods.
+
+For chromatography aluminum oxide or preferably silica gel may be used for packing. As for the eluent different organic solvents or mixtures thereof may be used. Ethyl acetate is preferred.
+
+Compounds II and III isolated as corresponding acids VI and VII lactones IV and V can be investigated with H NMR C NMR COSY NMR and mass spectroscopic analyses to determine their structures.
+
+Mobile phase composition and flow rate may be varied in order to achieve the required system suitability.
+
+About 10 mg of rosuvastatin calcium sample is weighed in a 20 ml amber volumetric flask. The sample is dissolved with 10 ml acetonitrile and diluted to volume with water.
+
+About 10 mg of each Compounds IV V VI and VII are weighed in a 20 ml amber volumetric flask dissolved with 10 ml acetonitrile and diluted to volume with water. 1 ml of prepared solution is diluted to 100 ml with diluent.
+
+The freshly prepared sample solutions are injected into the chromatograph and the chromatogram of the sample is continued up to the end of the gradient. The areas for each peak in each solution is determined using a suitable integrator.
+
+Having thus described the invention with reference to particular preferred embodiments and illustrated it with Examples those in the art can appreciate modifications to the invention as described and illustrated that do not depart from the spirit and scope of the invention as disclosed in the specification. The Examples are set forth to aid in understanding the invention but are not intended to and should not be construed to limit its scope in any way. The examples do not include detailed descriptions of conventional methods. All references mentioned herein are incorporated in their entirety.
+
